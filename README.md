@@ -1,4 +1,4 @@
-# Whole Whale GTM Basic Formula with Lighthouse and Politweets
+# Whole Whale GTM Basic Formula with Politweets
 
 This file is meant to be a ready-set starting point to set basic analytics tracking on your site through Google Tag Manager as well as implementing the script from [Politweets by Whole Whale](https://www.wholewhale.com/products/politweets) which helps your visitors, donors, and supporters to reach out to their representatives through Tweeter on the subjects that matter most to your cause.
    
