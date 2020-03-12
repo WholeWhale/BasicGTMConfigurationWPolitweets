@@ -24,7 +24,7 @@ To make sure politweets is on your site properly, you will also need to place th
 
 ### Variables
 
-* Google Analytics Settings: 
+* Google Analytics Settings:   
 *You will need to add your Google Analytics property ID* which is necessary since it is already connected to the currently existing tags. This variable is a reusable option to not have to rewrite any general settings that your tag would share with others. - If you create a tag where you will need to change any of this general settings, within the tag options you can check the `Enable overriding settings in this tag` section which will allow you to update those settings for the individual tag only
 * PII Scrubber:   
 (*Not necessary for everyone. If you know or you believe you have Personal Identifiable Information being passed any of the URL paths of your site, this variable will rid of it*)
